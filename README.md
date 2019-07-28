@@ -5,7 +5,7 @@
 - Dana - Ayah - Sam - [Ahadab]
 
 ## Weeks 3+4
-- Sam F - Ghassan - Ahdab
+- Sam - Ghassan - Ahdab
 - Ayah - Kira
 - Ameer - Dana
 
