@@ -15,3 +15,6 @@
 - Dana - Ghassan
 
 ## Weeks 7+8
+- Kira - Dana - Ahdab
+- Ameer - Sam
+- Ghassan - Ayah
