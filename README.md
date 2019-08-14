@@ -10,11 +10,11 @@
 - Ameer - Dana
 
 ## Weeks 5+6
-- Ameer - Ayah - Ahdab
-- Kira - Sam
-- Dana - Ghassan
-
-## Weeks 7+8
 - Kira - Dana - Ahdab
 - Ameer - Sam
 - Ghassan - Ayah
+
+## Weeks 7+8
+- Ameer - Ahdab
+- Kira - Sam - Ayah
+- Dana - Ghassan
